@@ -1,4 +1,4 @@
-# Depp learning models
+# Deep learning models
 Implémentation of DL models with python
 
 - mlps multi layer percepton
