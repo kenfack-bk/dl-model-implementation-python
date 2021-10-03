@@ -8,4 +8,3 @@ Implémentation of DL models with python
 - lstm
 - gru
 - cnn
-- 
